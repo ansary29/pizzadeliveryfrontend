@@ -1,0 +1,19 @@
+#head{
+    display: grid;
+    justify-content: center;
+    
+}
+#img{
+    display: grid;
+    justify-content: center;
+    
+}
+.btn{
+    background-color: midnightblue !important;
+    color: rgb(218, 200, 200) !important;
+}
+#sbtn{
+    margin-left: 80px;
+    border: none;
+    
+}
